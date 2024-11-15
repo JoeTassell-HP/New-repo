@@ -16,4 +16,5 @@ export function addTwoNumber(num1, num2) {
 export const data = {
   name: "Bob",
   age: 21,
+  favColor: "Pink",
 };
